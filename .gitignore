@@ -1,0 +1,6 @@
+config.php
+node_modules
+public/*
+palenight.css
+.prettierrc
+.prettierignore
