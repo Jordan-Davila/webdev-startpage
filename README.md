@@ -42,7 +42,7 @@
 
 [![webdev-startpage][product-screenshot]](https://github.com/Jordan-Davila/webdev-startpage)
 
-There are many great custom start pages available online, however, none of them or designed for web developers specifically.
+Custom start page designed specifically for web developers.
 
 Features:
 
